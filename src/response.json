@@ -1,0 +1,889 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCGwEAABePb2Y2HZs2Qx1WactOEXUkhxiDpOTtWJbkXUppDkapDLZaUDdOoQ6qp5kEH4NxeEJkFjNtUeydaHsMPNlarrg4KY0X3bb-pUaIR71RQTsLlbXU52QelaiO6fxCPuUjzV4J0XfFyx5B2HA4FAilZAESpZbsYuzCZsfkjoz9jo7Ufv_1AhDaecI5US-6pEkuEP2uSo9s4bUk8rKqLGKJ2WBzhL_Rq_94euujs6iMCIPEnqXf1lw4tDC-opxs1YKLV84Fx68tOf20ixGU_PTH-V_jMFgRXavXa-02aZtQEik1em4iuOf8AtgzqNr5KDKIs0vmihEodBbqosLtCe98Q8KRdMTTp_KLQGdgHbKccolwOi534M7TzvZivfgNfELgJRIQglHsx46MxBX3pVATAIiu6hoUfsX2hZUa3UteQFxlVWcpMc1FeAI",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6400629,
+               "lng" : 22.9444191
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6560448,
+                  "lng" : 22.9900712
+               },
+               "southwest" : {
+                  "lat" : 40.5863402,
+                  "lng" : 22.9019833
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e7e3f33823c95f045938299e92342f40e1c1f1cd",
+         "name" : "Thessaloniki",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103457948631373429209\"\u003eErdem\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5edGQ1Bm319Bo9ZtXSztWHMFDLbiSxHWCfNHT_Bm_YTQHpotxR13C8Hio4KythNNm7W8cXMJt6cSvhDoSkXRa4EmBnOx8ZZM0CVYcF_G22hkOnE_WCkExYlvN9UBdBPbEhC4IhQjPBa_MPcg6XhjL_wiGhRopdardPjA5zbX5JTknkn_7FTE2w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ7eAoFPQ4qBQRqXTVuBXnugk",
+         "reference" : "ChIJ7eAoFPQ4qBQRqXTVuBXnugk",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6332207,
+               "lng" : 22.9410716
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63445463029149,
+                  "lng" : 22.9424636302915
+               },
+               "southwest" : {
+                  "lat" : 40.6317566697085,
+                  "lng" : 22.9397656697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f3018cda88fe225f48e853e5ab1ba10a7758756f",
+         "name" : "Electra Palace Thessaloniki",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105493822753517487969\"\u003eElectra Palace Thessaloniki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAF6bYoGn8e23am9xVeEzNc9GlAy0pfcT0CfowKEKcE4OzPzHUdXsjOzm7QxgKKhHfOH9Gg39QJXTrodvflnge_6Uk_4lw6UBHzf_2nXh94tgzmoceU-31sGMxF1eC-csqEhAlZqzoINFpofUEzSNTYe5KGhQ5HjdWcMQ5hUOHz7WzMIY7o2-kRg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJQ1GQfQg5qBQRaKIPJE_5Xnw",
+         "plus_code" : {
+            "compound_code" : "JWMR+7C Thessaloniki, Greece",
+            "global_code" : "8GG4JWMR+7C"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJQ1GQfQg5qBQRaKIPJE_5Xnw",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2382,
+         "vicinity" : "Aristotelous 9, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.62867749999999,
+               "lng" : 22.9456659
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6300030302915,
+                  "lng" : 22.9469869802915
+               },
+               "southwest" : {
+                  "lat" : 40.6273050697085,
+                  "lng" : 22.9442890197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7f07949ed9924b13585603d33e2ed05f7189527f",
+         "name" : "Daios Luxury Living Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 518,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108661699558032042213\"\u003eDaios Luxury Living Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGfFEzwSc8nGjclEIuAooCaGqR4n9xCQb6pfi6Ai4BKfQWNatyX5Gfe2eqpTUTVOIVJHKPx8j83twFarOzfHTKimnZeTu9G-NXIsMVn5_o22DGJvFplZrQUkLXOcBGt0zEhA20-GsXx9gmSwqQ9HgPHVYGhSJ0JyxcA3jCYpI7un4GMY4iKbV5g",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJt4soOQQ5qBQR7tgN-6IY-ME",
+         "plus_code" : {
+            "compound_code" : "JWHW+F7 Thessaloniki, Greece",
+            "global_code" : "8GG4JWHW+F7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJt4soOQQ5qBQR7tgN-6IY-ME",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 732,
+         "vicinity" : "Leoforos Nikis 59, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6305734,
+               "lng" : 22.9531688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63191888029149,
+                  "lng" : 22.95466323029151
+               },
+               "southwest" : {
+                  "lat" : 40.62922091970849,
+                  "lng" : 22.9519652697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "32d88ac23adfa65294f3e51cc63cc9d6ea353e74",
+         "name" : "ABC Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101986417183124708971\"\u003eAbc Hotel Thessaloniki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3BcDv0y2ccSp6of0st1tcP5PCqJtpr4-5HSGo-UTd27oq8vLgYU6jUQxfLNJYa7oBvsOn5org0Sm3w5ZMutsAsabNIEQC_Xw1yfg9uqmj_rPdnkV80Q-sRHJw_Dai2Y6EhCsROjf4Z4Kw7k4l0wCnOw0GhQLM4yjHyzOhwDptEYdAOWE6r3jsg",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJ3R031QE5qBQRQAODIfsZR8A",
+         "plus_code" : {
+            "compound_code" : "JXJ3+67 Thessaloniki, Greece",
+            "global_code" : "8GG4JXJ3+67"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ3R031QE5qBQRQAODIfsZR8A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 737,
+         "vicinity" : "Aggelaki 41, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.636362,
+               "lng" : 22.936041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63765138029149,
+                  "lng" : 22.9374992302915
+               },
+               "southwest" : {
+                  "lat" : 40.63495341970849,
+                  "lng" : 22.93480126970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4b29f40ce559783c695d159be698def17f768b91",
+         "name" : "Astoria Hotel Thessaloniki",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1363,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115532285166900719942\"\u003eAstoria Hotel Thessaloniki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7LBqtrLG9SmTGpPZiy3Cie4D1tlfyMLKk-RIvu3eQYVUVtSVGwD2IPs9hN9S_x_CeZDCAVTWUOSeVf6zBW7fB2YL23srxUVE8QabXt2ji73gOJlEz2Q0Klx3Be_9VLgeEhDwOXN6rolJQC4lLfTmnjusGhT7VCdKCFLc0LOFlvgoOh-DOTlfBw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJh_rW_Ak5qBQRTw2Jbntcuog",
+         "plus_code" : {
+            "compound_code" : "JWPP+GC Thessaloniki, Greece",
+            "global_code" : "8GG4JWPP+GC"
+         },
+         "rating" : 4,
+         "reference" : "ChIJh_rW_Ak5qBQRTw2Jbntcuog",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1105,
+         "vicinity" : "Salaminos 9, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.64008930000001,
+               "lng" : 22.9431602
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.64134843029149,
+                  "lng" : 22.9445887302915
+               },
+               "southwest" : {
+                  "lat" : 40.63865046970849,
+                  "lng" : 22.9418907697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8fa883a385b89106d50a971bc7af65a25ff5b070",
+         "name" : "Park Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5338,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100399730052144283518\"\u003ePARK HOTEL\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYb8AaiWvbFSo0gRyQf2ho_3jW7OqeaIQ5kE8EwsV_QZha_fjpLhBog9W85b0szRffFPPsogtP3fF_repXnjbxDl1EGlf1iFYcpv1RpMraoEUy36nq9jYsOxcnBk1doacEhA78gQwSgar6DUp1tyDcc-SGhTf4KW2RLOqCm4ikY10hVfpzgGxaQ",
+               "width" : 7203
+            }
+         ],
+         "place_id" : "ChIJ74NjSq85qBQRaVijbr8OeRw",
+         "plus_code" : {
+            "compound_code" : "JWRV+27 Thessaloniki, Greece",
+            "global_code" : "8GG4JWRV+27"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ74NjSq85qBQRaVijbr8OeRw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 703,
+         "vicinity" : "Ιωνος Δραγούμη Κυπρίων, Agoniston 81, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.64271929999999,
+               "lng" : 22.9349594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6440682802915,
+                  "lng" : 22.9363559302915
+               },
+               "southwest" : {
+                  "lat" : 40.6413703197085,
+                  "lng" : 22.9336579697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9c5b2ff85cdfb590efe8c6105d17e729e7bfe695",
+         "name" : "Anatolia Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111719084187828265834\"\u003eStoian Bojichkov\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8RrqH0jtByJIGdabHyRv0GTOC-Z7buCT24zUTgiR6H8CIET-t5tGRUYGATd1pTXiDgNY4NOQcXpNx_Q0PWukBXrJyj_M7mqitzgfgofXZbVkOfi9kyTb4bpAvWsmNvTrEhDjJOgCcYds7IwoxKHkhaA1GhTBRF5kGZeJFI2TyPKLDlMJay3lIA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJcUCb8aM5qBQRnmwV4471Zuc",
+         "plus_code" : {
+            "compound_code" : "JWVM+3X Thessaloniki, Greece",
+            "global_code" : "8GG4JWVM+3X"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJcUCb8aM5qBQRnmwV4471Zuc",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 991,
+         "vicinity" : "13, Lagkada Str, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6392861,
+               "lng" : 22.9379778
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.64057803029149,
+                  "lng" : 22.9392754302915
+               },
+               "southwest" : {
+                  "lat" : 40.63788006970849,
+                  "lng" : 22.9365774697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7e2b3aa4c28816b24c11b43e363e90df2e18b595",
+         "name" : "Aegeon Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117030228739710476521\"\u003ePaweł K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAROAFjDE-WDZmRPSf9JzX4HtJrAjw26i_gjq4yTexo6Tx31HsIDpc0nHpSIo9ZsHPnhvA4a4WvelyrjEgDjfKI4ZlwfdMWzAySCMyWAEcegy90A-Fu-SADOoelVLUaY-PEhAdX1hrpwG2lCxbU8_ySXqTGhQoMhBc2Il1XXfWW20fv7Lq-1e4aA",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJa27N76Y5qBQRAgpRJ7h1frs",
+         "plus_code" : {
+            "compound_code" : "JWQQ+P5 Thessaloniki, Greece",
+            "global_code" : "8GG4JWQQ+P5"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJa27N76Y5qBQRAgpRJ7h1frs",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 539,
+         "vicinity" : "Egnatia 19, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6385139,
+               "lng" : 22.9382424
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6400283302915,
+                  "lng" : 22.9397259302915
+               },
+               "southwest" : {
+                  "lat" : 40.6373303697085,
+                  "lng" : 22.9370279697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6eebf84c9543c9d075504f6d370c32001bfa5419",
+         "name" : "Hotel Europa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108261020228349755677\"\u003eHotel Europa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPD3geIjDAsaji5cVRxo2Kq4HkxLVMsnPVn51bQUibhqr1KMtZLuzShlFuhltlD1BAUjE0HDhCNkJZ6-2S0Q8WuUaceeTdgjwcdf0syBB8EMm10WxzHw5bSjv3PL7yRz9EhBf4pyZNiOA3Oq7-aoHcVOtGhRld3vNo_Za3DdMsMx6K80WQmvf6A",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJ2xsZ_KY5qBQRs5eGy_rXE3w",
+         "plus_code" : {
+            "compound_code" : "JWQQ+C7 Thessaloniki, Greece",
+            "global_code" : "8GG4JWQQ+C7"
+         },
+         "rating" : 2.4,
+         "reference" : "ChIJ2xsZ_KY5qBQRs5eGy_rXE3w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 124,
+         "vicinity" : "Leontos Sofou, Egnatia 24, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6427214,
+               "lng" : 22.9388678
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.64409828029149,
+                  "lng" : 22.9402414302915
+               },
+               "southwest" : {
+                  "lat" : 40.6414003197085,
+                  "lng" : 22.9375434697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "020a4a13f3bfc338197282a22965529f6704153a",
+         "name" : "Telioni Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107413127463216217417\"\u003eChristos Pappos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAU_KsAnXezEgpawi99SxE9flt0QosmlekiLD3MFuGW9tzezi9AKhj1yQBNWT6tZqdAJn4vz4P5EI1paM066cUNhh83huzlxCSCAVajskcOnU_d_W1ZOkHsaXq2jn-wzzaEhBDu1-nTI_p7y9ovnnrqGWLGhQG77NOlfUSuW2GsfzvmbHlpEDJmw",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJ62QMrKU5qBQRN19hQ_ktXQQ",
+         "plus_code" : {
+            "compound_code" : "JWVQ+3G Thessaloniki, Greece",
+            "global_code" : "8GG4JWVQ+3G"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ62QMrKU5qBQRN19hQ_ktXQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 886,
+         "vicinity" : "Agiou Dimitriou 16, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6374284,
+               "lng" : 22.9417528
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6386865302915,
+                  "lng" : 22.9429882802915
+               },
+               "southwest" : {
+                  "lat" : 40.6359885697085,
+                  "lng" : 22.9402903197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c772dd572552b9618045f7d9eb96537010c907e8",
+         "name" : "Hamza Bey Mosque",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112126827626165932128\"\u003eEMRAH SEVER\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdjKc6M-O6XxeWJHVtU6BYVhSX60i0Far6cSls-5wDGPGl1OaZ91HOSNewIvO9mdtJ-Zxvsn9ILxCvh7mQ754kAgaSslH88JDohLyGruiT5FtMB67LIOcv1TRjs5Mb9H9EhDOe0roYSAi06_BibRpK8xhGhSpOkHZ2FbTzjyecFitIiYCslNzLg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ71pQf6g5qBQRPOKRE-IEj88",
+         "plus_code" : {
+            "compound_code" : "JWPR+XP Thessaloniki, Greece",
+            "global_code" : "8GG4JWPR+XP"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ71pQf6g5qBQRPOKRE-IEj88",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 333,
+         "vicinity" : "Egnatia, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.63936249999999,
+               "lng" : 22.942343
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6406669802915,
+                  "lng" : 22.9437707302915
+               },
+               "southwest" : {
+                  "lat" : 40.6379690197085,
+                  "lng" : 22.94107276970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f656010cfa2a7b0180a4b8ff2152e858fe36cfd5",
+         "name" : "Pella Hotel",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102364639945060083071\"\u003eCiprian Onosa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcU-1mpGn0_eaNukytQkl0CB4PSCIKmST2hjjMlVCk87N4Ffb5BdrCe3LqHYbNx1-7fjyyimeezIkewJ3__WvSOKHmRNWiuTtz3yGqqQffJBo07yOfujOryZlMIIL96J8EhAKVVbjxD7dYghXzhzZWRM_GhRxiGHGUamXIuIKC_bEjkSwajgJig",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJW1-upKg5qBQRrIzWli0H0CM",
+         "plus_code" : {
+            "compound_code" : "JWQR+PW Thessaloniki, Greece",
+            "global_code" : "8GG4JWQR+PW"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJW1-upKg5qBQRrIzWli0H0CM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 503,
+         "vicinity" : "Ionos Dragoumi 63, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6395053,
+               "lng" : 22.943348
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.64091808029149,
+                  "lng" : 22.9447503302915
+               },
+               "southwest" : {
+                  "lat" : 40.6382201197085,
+                  "lng" : 22.9420523697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ee87a350aed2172f93abb162f990af1305267e1e",
+         "name" : "Hotel Esperia",
+         "photos" : [
+            {
+               "height" : 3265,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101021209677433345205\"\u003eNorbert Walker\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA21qo_x8SIoXNNi92L0evIDaq-xMiDSVTMeSgsY6twMwFtgfFi14MP4QyJ6Wt9eG_zlKV_AR62Rp40EJlVK7-nT-EVdl5Iwh0cJverG6k6NAfLlHXCszXgI2YdhKLTbrEEhDbSOYRH7DL_mRPf-oCPAwbGhSEIL208djE5H1bZcxiXe0fY-D5pQ",
+               "width" : 4898
+            }
+         ],
+         "place_id" : "ChIJ64X8y6g5qBQRPXbDZ_ttAgU",
+         "plus_code" : {
+            "compound_code" : "JWQV+R8 Thessaloniki, Greece",
+            "global_code" : "8GG4JWQV+R8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ64X8y6g5qBQRPXbDZ_ttAgU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 273,
+         "vicinity" : "Olimpou 58, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6397147,
+               "lng" : 22.9394395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.64103598029149,
+                  "lng" : 22.9408352302915
+               },
+               "southwest" : {
+                  "lat" : 40.63833801970849,
+                  "lng" : 22.93813726970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "341a192f3bf4a87c45a64f0d013d2b35c3a1ae42",
+         "name" : "ad Imperial Palace Hotel Thessaloniki",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117550467722667338606\"\u003ead Imperial Palace Hotel Thessaloniki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7tX3vn1fVHVHUNwMEBhSGPTEU9U195LX2s6sKvix9x4-833xDWCrrkFgaOFW1lB8mvU8n2YgOkIIK5ZOEkL7ypiVDTKqRigaz9FT2wsc_hg10qBRqK2h0r5NXMYMjf5OEhA0gblBRNBm3i-7HJcMNIrXGhQopiAxak2wiMckvLM7iTM5Zs9GDw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJZTNFb6Y5qBQRDIIspUCUjQw",
+         "plus_code" : {
+            "compound_code" : "JWQQ+VQ Thessaloniki, Greece",
+            "global_code" : "8GG4JWQQ+VQ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJZTNFb6Y5qBQRDIIspUCUjQw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 543,
+         "vicinity" : "Adigonidon 13, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.63551450000001,
+               "lng" : 22.9418587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6368199302915,
+                  "lng" : 22.9431691802915
+               },
+               "southwest" : {
+                  "lat" : 40.6341219697085,
+                  "lng" : 22.9404712197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c7e4ed89d0dfbf6f043496d38a0b6df553d84cab",
+         "name" : "Hotel Amalia S.A.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1422,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105349542507310220295\"\u003eIraklis Kountouratzis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQamTGwpubhOwRPWIluokGOEtF8pbOHPBwItmkGsOsKiBfaYo2hbIwcY0vuMQ5ybnU3wemk8Qn988j6SmLuprJg6yDN-5vDtYqJiWp2NKpo5A0Sg3OM1Lqh2X9iH09NzBEhCqeWQM5xoc8V3DZgITiIGaGhSpyXi7aU71r56tSQMEe_P5FAP3gQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJzReNAKg5qBQRikuaEzZ5NXw",
+         "plus_code" : {
+            "compound_code" : "JWPR+6P Thessaloniki, Greece",
+            "global_code" : "8GG4JWPR+6P"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJzReNAKg5qBQRikuaEzZ5NXw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 310,
+         "vicinity" : "Ermou 33, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.63855700000001,
+               "lng" : 22.9385925
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6399913302915,
+                  "lng" : 22.9400197302915
+               },
+               "southwest" : {
+                  "lat" : 40.6372933697085,
+                  "lng" : 22.9373217697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "150c018d32a9b665a30a7e88b7f212e95c14ff9a",
+         "name" : "Hotel Ilissia",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112695530829724859547\"\u003eFrans Scheerhoorn\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd08cZD4Km9VAxuw6EWy7odqzlTTCxGfegahvi0yjPwABSB9AhT2iPr2-FoZCAUTLPF2WDKpQPhHQi_XNNjpfC6IXHJlulLwn_JmKtr4wBEOfrrWDeGbX3cRydsYG0oTVEhCcMtRpCRgxpkVrDS38AeyPGhQX3uD1fyMG44QrQ-QjW6ZJNdkdDQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJsVfp-KY5qBQRaS8qU78wGoA",
+         "plus_code" : {
+            "compound_code" : "JWQQ+CC Thessaloniki, Greece",
+            "global_code" : "8GG4JWQQ+CC"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJsVfp-KY5qBQRaS8qU78wGoA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 399,
+         "vicinity" : "Egnatia 24, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6391435,
+               "lng" : 22.9381844
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.64046483029149,
+                  "lng" : 22.9394594802915
+               },
+               "southwest" : {
+                  "lat" : 40.63776686970849,
+                  "lng" : 22.9367615197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "448943777bb995ef43c5b78bcbaa0a1f6025aae8",
+         "name" : "El Greco Superior Hotel, Urban City Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105394669237452233115\"\u003eHeinz Glindemann\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYCH8VXSVLm9L1Z3Ns9dJmS8riLAm2Y_AX5_Wz9cYFIHDDFc-9vF91gw7vkVEby6iS9eVb_T1w6tVMvCHsqFqWB7EDHtCMCde7nxokXrS7pwq61u-VruC8m5Y6HLRWCp0EhA1IJIKye5sAYwCLSTvBuSMGhQFzjGtsrWax30dnntR-uHYXx-K3A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJwYYL-KY5qBQRRVGf0LiA1sU",
+         "plus_code" : {
+            "compound_code" : "JWQQ+M7 Thessaloniki, Greece",
+            "global_code" : "8GG4JWQQ+M7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJwYYL-KY5qBQRRVGf0LiA1sU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 888,
+         "vicinity" : "23, Egnatia Str, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.634457,
+               "lng" : 22.939606
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6358525302915,
+                  "lng" : 22.9409981302915
+               },
+               "southwest" : {
+                  "lat" : 40.6331545697085,
+                  "lng" : 22.93830016970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2f6e29fef0e15da2dfe86900d7ef9dc6d8156f3a",
+         "name" : "Le Palace Art Hotel",
+         "photos" : [
+            {
+               "height" : 1422,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100403479542620837550\"\u003eLe Palace Art Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2ub7bCdXAvn3QiUUSItm6yhkJGKgO-AbS7TS2kICw3aP8eYBEaCWRx2wjOfMc4bH25qSKJhl_Xe74Xzl4k7Zl090sIg525oxPd1aLg0cPcImNaQbpqmpIetEGhJ8YWWQEhCshnnIhYg1q6wYAXwc1hq-GhT_I4QWIzOhbWIwGjP5tojOCqUpSg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJ5ozugY5qBQRZ9M08nXy6P4",
+         "plus_code" : {
+            "compound_code" : "JWMQ+QR Thessaloniki, Greece",
+            "global_code" : "8GG4JWMQ+QR"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJJ5ozugY5qBQRZ9M08nXy6P4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 520,
+         "vicinity" : "Tsimiski 12, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.633877,
+               "lng" : 22.940093
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6352059302915,
+                  "lng" : 22.9414759802915
+               },
+               "southwest" : {
+                  "lat" : 40.6325079697085,
+                  "lng" : 22.9387780197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "25ef3da433d17871dca03c15b26b2f2d9fa4acaa",
+         "name" : "City Hotel Thessaloniki",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 675,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101873310970712314045\"\u003eCity Hotel Thessaloniki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxdE_XbZb9zsyDSp-Y9gMezFtoirh-8730XuJhs3jIJFLpRdZsLJ-PAEx7XbytWmeA_cCLSqtuQzAWEowWBmHLbIcF8Q0aFsopRqPk8-mGDy42Yun0wtJo56-xEGQ2a0mEhBWAmkR-a6x4x_C2vY4WTSQGhTJhAAjszR1yNj0AIS9h4gnjOw5Qw",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ-26Rawg5qBQRLk8KJE92S4g",
+         "plus_code" : {
+            "compound_code" : "JWMR+H2 Thessaloniki, Greece",
+            "global_code" : "8GG4JWMR+H2"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ-26Rawg5qBQRLk8KJE92S4g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1112,
+         "vicinity" : "Komninon 11, Thessaloniki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6485476,
+               "lng" : 22.9565995
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6570497,
+                  "lng" : 22.9667938
+               },
+               "southwest" : {
+                  "lat" : 40.6424514,
+                  "lng" : 22.9392289
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "966d517a88d1c075c3a842eac1071ed86507db7a",
+         "name" : "Sykies",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106170829907366775283\"\u003eEl Zaf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAL9AaXwviu1GCf3wfV26l3z3-eUpCn3B5_9pQTp0IpNN9pQP6iJiHRCY29uHRxj7yuFWPFGoBBNZxniFOIz1tFhD_sZPv2n6GvgvWRm2EW73RTGRXLckqTLASHt96-XjEhDnQgLx7jVWNJfoYTwkktSlGhQcmgKsiFQUDRaYs6410YvbXfGjIg",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJgVkvUjg4qBQR8KW54iy9AAQ",
+         "reference" : "ChIJgVkvUjg4qBQR8KW54iy9AAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Sykies"
+      }
+   ],
+   "status" : "OK"
+}

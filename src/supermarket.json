@@ -1,0 +1,1032 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCIAEAAMTyv0xyH1Qk_zYjTgRIjxerWRlS5KshlGAFJWk_LphG_sVdUQCGLsBLQJcngRIc3i27xuGIXYR9EZmKs9n4aWPVv5NacDE_lNrjKoYzJS20u_Rz6QOEpb2-4lwBncrmgEvHkjCQSpFDCABXSTCdHePNp5OeH4jHctFpGCALz9LRLFYvhCctEft01U7E4GeTVChoLui-kzs3GZxcAoKwT6wOwzYdX63x1LwJaoBExpqkh7ZoLcFSOwDkjNGBkbJFV4QwGzo1zj01Xbm1yyNN5Rd6wGX4toUay5ttFE2EXdFwj_-7mQ_Aw8mEumK8Mi11PjbOuXQGDITXJUjmCOo483_oXd_qtgEnTZD8HSCnhNEqDq4UqXxwmZJBGLWNcINXURIQuqOfCSCYgGzL-N6JSIZd7hoUFXaFjW6Vvi_6el7V0-3JS-vj5P0",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6358662,
+               "lng" : 22.9498145
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63722233029149,
+                  "lng" : 22.9512064302915
+               },
+               "southwest" : {
+                  "lat" : 40.63452436970849,
+                  "lng" : 22.9485084697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "85fc1c3455bf9206cf8779eb93e8b347ed0037d1",
+         "name" : "BAZAAR Supermarket",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104167972946579482566\"\u003eK Forest\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALDS6OQxHau1QBoZwVP1AlBWot81fc1gomtmmjwURpu1WGkG9eeh2jzA3_uxD37Yg6ACWR7zOlNY6qKSXUqU-btPbgjEHIt8ZgjXwoqBQSfvsOj_rGOpseS4wbuzCMj-nEhCmm6aI6j29OPpYq5RX1iffGhToiweitsdIHjD2JvORj9DjXVrICA",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJ3e99Tao5qBQRK5bP-Eof-hY",
+         "plus_code" : {
+            "compound_code" : "JWPX+8W Thessaloniki, Greece",
+            "global_code" : "8GG4JWPX+8W"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ3e99Tao5qBQRK5bP-Eof-hY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 67,
+         "vicinity" : "Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6378929,
+               "lng" : 22.9510344
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6392617802915,
+                  "lng" : 22.9524006302915
+               },
+               "southwest" : {
+                  "lat" : 40.6365638197085,
+                  "lng" : 22.94970266970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "452b4b483b6b166cf85e02ef5147c24e43847abb",
+         "name" : "ΑΒ Βασιλόπουλος",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103235429904926689983\"\u003eTelis Bakirtzoglou\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAre6fQoNBvpZoX7oMfOCeWm4TRSQv2v_Rhgvn1tjSF8rkYDy6PK6Jb1MdeJZUnbFPUa7QHzTL0N5x-H4mBlfa8T-7aw0mfPvL_yftMFWaSdwLYUqhvsyCrAm8Ia47n_LtEhDEiPuCLvMS0aGHzSmcRPNYGhQPUznD5XAh4zcLXk4qoW9V4SO69Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJHWNsfKs5qBQRN3VC4-dp3C8",
+         "plus_code" : {
+            "compound_code" : "JXQ2+5C Thessaloniki, Greece",
+            "global_code" : "8GG4JXQ2+5C"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJHWNsfKs5qBQRN3VC4-dp3C8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 186,
+         "vicinity" : "Kassandrou 90, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6408513,
+               "lng" : 22.9493754
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6422316302915,
+                  "lng" : 22.9507483302915
+               },
+               "southwest" : {
+                  "lat" : 40.6395336697085,
+                  "lng" : 22.9480503697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "dd594b8e5e085bb84c2182faf03b373422152a1c",
+         "name" : "Lidl",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102301516066647039624\"\u003eIvan I\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUFc2udUXrxZEQppRcqGz_Vow6BVeRWX7hGr8i2JgMNHD1z97BgIsCtjxzvSyEROHnAViopHPs0K5FVeIQLOnnuRK_U648kaLcjr8bKj9dqBOgBWSjge3RFMEpXqqTkbqEhAIp4ruLpxoxZwfSzrvnM0bGhThQ4_nEWBn36B0xOEKU_E8b0B5dA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ-R1ES6w5qBQRuWFPqiG50I4",
+         "plus_code" : {
+            "compound_code" : "JWRX+8Q Thessaloniki, Greece",
+            "global_code" : "8GG4JWRX+8Q"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ-R1ES6w5qBQRuWFPqiG50I4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 759,
+         "vicinity" : "Olimpiados 56, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.63104999999999,
+               "lng" : 22.94344
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6323757802915,
+                  "lng" : 22.9448232302915
+               },
+               "southwest" : {
+                  "lat" : 40.6296778197085,
+                  "lng" : 22.94212526970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "613f3e95a07884620996af476f4af85478ed4ffe",
+         "name" : "AB ΑΓ. ΣΟΦΙΑΣ-ΘΕΣΣΑΛΟΝΙΚΗ",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 260,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107564531275651323203\"\u003eTolis Nubis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFbtnED70gGiYfD30ltCtRLYTyXnChLK2YNq1dBRQrX_HkzZXKefu0W9eocJPOUWPooLgBkdZq3mKrYuyQdv75EuAYSsWOGkG4VlGQ-VIdFmDmTC8-CaR6_njCf24eS0SEhA7BMDP0PciEC-XrYW55PxMGhSHJRtOtyUqs5QjQDdGm-nfzf8WLw",
+               "width" : 432
+            }
+         ],
+         "place_id" : "ChIJ34jvawY5qBQRctH2sGPqmUU",
+         "plus_code" : {
+            "compound_code" : "JWJV+C9 Thessaloniki, Greece",
+            "global_code" : "8GG4JWJV+C9"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ34jvawY5qBQRctH2sGPqmUU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 468,
+         "vicinity" : "Agias Sofias 3, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.64041599999999,
+               "lng" : 22.9390724
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6417822302915,
+                  "lng" : 22.9404203802915
+               },
+               "southwest" : {
+                  "lat" : 40.6390842697085,
+                  "lng" : 22.93772241970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f5c2e9ec49598afc635d4efd164ed5858bed7fd5",
+         "name" : "BAZAAR DISCOUNT MARKET",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112243060028407210152\"\u003eZopidis Lefteris\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArJBFF0O1f-u58-mFtl73nykbsz3jbOJHNkXihvp0SVLF3Vw8zNpIiutYEaOJFpuJPYwAQMBkU6raDqxGuBeE933CQLVligtu2qkzqYYXUJutlFPoKsZ4h8YiNNCpB-GwEhCLf7Kn064EF9DC3pSfokUNGhTYRuRkmhKgNNZ24O1rDcW5IADDug",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJyUpGeaY5qBQRmi-ofGGSIHI",
+         "plus_code" : {
+            "compound_code" : "JWRQ+5J Thessaloniki, Greece",
+            "global_code" : "8GG4JWRQ+5J"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJyUpGeaY5qBQRmi-ofGGSIHI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 72,
+         "vicinity" : "29,, Karaoli ke Dimitriou Ton Kiprion 23, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.64159360000001,
+               "lng" : 22.939393
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.64297458029149,
+                  "lng" : 22.9407710302915
+               },
+               "southwest" : {
+                  "lat" : 40.6402766197085,
+                  "lng" : 22.9380730697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "bfe11f5d874dc3495376260d7222138bc9e3b271",
+         "name" : "Galaxías",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJlYgnxqU5qBQRgGxMN3VBh4A",
+         "plus_code" : {
+            "compound_code" : "JWRQ+JQ Thessaloniki, Greece",
+            "global_code" : "8GG4JWRQ+JQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJlYgnxqU5qBQRgGxMN3VBh4A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 42,
+         "vicinity" : "Olimpou 20, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.62926110000001,
+               "lng" : 22.9499416
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63061878029151,
+                  "lng" : 22.9512772802915
+               },
+               "southwest" : {
+                  "lat" : 40.62792081970851,
+                  "lng" : 22.9485793197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "527ec62d37c386b6b78ea79971eccd9d718f5b17",
+         "name" : "BAZAAR Supermarket",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3792,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105920455374828203394\"\u003eFoivian Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZaxJ9AtHabTcL_3qs1CWMH_Ic6XYq7ksXama_mstK-hVvm3TRI6SdPe4mcgaR3IuClTsd3no1aLJZyy022hsJIjWZYEONuNz-Rk2A5z_czXkoKvjJUYeyRZEjDAUptbPEhDXl9UH5bDdjFqkv3YKEVzzGhSYNttAzrOnnd-fpMBh_nG2JQWDmA",
+               "width" : 5056
+            }
+         ],
+         "place_id" : "ChIJP_HsegE5qBQRUMAS8VLeDWc",
+         "plus_code" : {
+            "compound_code" : "JWHX+PX Thessaloniki, Greece",
+            "global_code" : "8GG4JWHX+PX"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJP_HsegE5qBQRUMAS8VLeDWc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Nikiforou Foka 29, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6393867,
+               "lng" : 22.9367482
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6408522802915,
+                  "lng" : 22.9382154802915
+               },
+               "southwest" : {
+                  "lat" : 40.6381543197085,
+                  "lng" : 22.9355175197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1ed4dec5fc6f20e2aff5df07af8d37c7c043b958",
+         "name" : "Σούπερ Μάρκετ ΑΦΡΟΔΙΤΗ",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109739912845598052396\"\u003eHari Toufexi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1lp---nywxXPMcif38Nr7QSZQKjrLlvCk2-4U_a8T3yW1mmKNa3fxV89CmUEZuuDWziGpbxhpv_zOXti9FBBKyMirvsQTfYozDnA0oxZiONhuVx7QXJAYARXP2cPIJaGEhAg8VQDjdeeFdyvBv1-3D0-GhQReKZ8RZZXlA1tl1DcWrzBtzOXaw",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJG4OkxKY5qBQRLyjeZlV1Djw",
+         "plus_code" : {
+            "compound_code" : "JWQP+QM Thessaloniki, Greece",
+            "global_code" : "8GG4JWQP+QM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJG4OkxKY5qBQRLyjeZlV1Djw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 117,
+         "vicinity" : "Egnatia 6, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.640445,
+               "lng" : 22.9326309
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6417659302915,
+                  "lng" : 22.9340316802915
+               },
+               "southwest" : {
+                  "lat" : 40.6390679697085,
+                  "lng" : 22.9313337197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8af760d4d1ce6b3fd9e56fc29adae10ae70fc598",
+         "name" : "Βασίλαγας 3B Markets",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1306,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104930788751810803642\"\u003ePanos Vasilagas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsKBnpaOb-jzriO64yTmU-KqaWQHG7TuQAvXnbOK_JzSut8m9jefhr4kZA-GyqJqtrn6NqqR1X9eruRPycSx_g9T8tUQUspGMmPlmOY09K5QkHTLLJiugzn6uaQxLYFk2EhAYDpEciaKETlT8YhNAD-QDGhT-3ZwV25yAHWacfRvTPoLFCiqn_Q",
+               "width" : 1306
+            }
+         ],
+         "place_id" : "ChIJz1VEp6E5qBQRqx_8ji-X1N4",
+         "plus_code" : {
+            "compound_code" : "JWRM+53 Thessaloniki, Greece",
+            "global_code" : "8GG4JWRM+53"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJz1VEp6E5qBQRqx_8ji-X1N4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Enotikon 3, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.64997289999999,
+               "lng" : 22.9524878
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6513453302915,
+                  "lng" : 22.9538702302915
+               },
+               "southwest" : {
+                  "lat" : 40.6486473697085,
+                  "lng" : 22.9511722697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2b8171d3995e235536d9fb9ec4b78885e06db9c5",
+         "name" : "ΑΒ Βασιλόπουλος",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110294861969423248808\"\u003eG1anak1s G1anak1δης\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAL46J-xYF7mkQVdl6NYew911vCk0AW_DUfmrOzWKd71U7ASYsZr3SoD1IRA2ZHFP0vJ4HotQSSdUDAEJGAhvdGPp1t5GVG6LkzS26COixNzM7epU0J_sBcrsUdn9fn7X6EhBrHYCFJ_t2PkrofoLk8afHGhTZgHKIYwj6nPlYKqk6fFW1Dn6nrg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJAcxLIrU5qBQREljNmgMq-yc",
+         "plus_code" : {
+            "compound_code" : "JXX2+XX Sykies, Greece",
+            "global_code" : "8GG4JXX2+XX"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJAcxLIrU5qBQREljNmgMq-yc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 193,
+         "vicinity" : "Ανδρέα Δημητρίου, Kiprou &, Sikies"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.643288,
+               "lng" : 22.932497
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6446564302915,
+                  "lng" : 22.9338652302915
+               },
+               "southwest" : {
+                  "lat" : 40.6419584697085,
+                  "lng" : 22.9311672697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "101e9a58f001b7e9d97f00fe1b41583bb2688155",
+         "name" : "MyGreekProduct.com",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113583329124140321551\"\u003eNicolas Misetzis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARjxhvQWx0SDiKBGmnenPUa_etNdG9uikEcEF3LDqGDsU1wFm44KSm2iLZWphdh40nmTBZFyjHk8dJKthZvB5h5KAPszmk1XIa_uFSMSmjvNqVk_lLNJ108utXRE5GoIbEhBGF5edROgM0sAG8aHMwKd3GhRzpy4siclhcOlXHE6l_Bl8X_ayeQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJDUF2bmU3qBQROC3zE1NLkec",
+         "plus_code" : {
+            "compound_code" : "JWVJ+8X Thessaloniki, Greece",
+            "global_code" : "8GG4JWVJ+8X"
+         },
+         "rating" : 1,
+         "reference" : "ChIJDUF2bmU3qBQROC3zE1NLkec",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Ioanni Nteka 7, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6371238,
+               "lng" : 22.9506933
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6384136302915,
+                  "lng" : 22.9519940302915
+               },
+               "southwest" : {
+                  "lat" : 40.6357156697085,
+                  "lng" : 22.9492960697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a05d38ea7cc1d577a7971f3c02d099b61e4c2ec9",
+         "name" : "Discount markt",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106149768860059728114\"\u003eNico Tsaousis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1lA5oFq52oHrt2W75OWJCPOVka5Ie_dNxdbJ56-fZaE_Kem1B5sknnkDzmrHLNV70nUXRzvAgAa-pCjHxonzdo0vwqbIvffLXB83WLsVdNDaEYuWcXkG0ZWe9OxocYzLEhCC6Gko4SEEWJEX9_Rl23JFGhT7A_tXZIXmFjnIdanaK6Ykgy6CSw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ90cQdas5qBQRV3IkNGj9kgE",
+         "plus_code" : {
+            "compound_code" : "JXP2+R7 Thessaloniki, Greece",
+            "global_code" : "8GG4JXP2+R7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ90cQdas5qBQRV3IkNGj9kgE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 136,
+         "vicinity" : "Agiou Dimitriou 115, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6378825,
+               "lng" : 22.9512817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6392219802915,
+                  "lng" : 22.9526220302915
+               },
+               "southwest" : {
+                  "lat" : 40.6365240197085,
+                  "lng" : 22.9499240697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "eef761c1786ae70fa0ea1458dec3fc726f5fbf24",
+         "name" : "Masoútēs",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2246,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111055124511637407512\"\u003eKonstantinos Stavridis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQEp9sdSWuycNT9a7p7wDzEpv5-2sXRPOQxTYe-Ip36WlrUehfVCktjm6XIYLH_BvyTo_WkNNSAjKVgmTXZ7IcFuo5kme-6WFI1UybF_PFL5ZapEnK1DzcYs-GmH91HnuEhBNJbQsOQ-Su2SoMDnVYZX4GhSeAykRfoZZm_eEFgkmUy1JA4HOLg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJPXvJfKs5qBQRse8msc94zfg",
+         "plus_code" : {
+            "compound_code" : "JXQ2+5G Thessaloniki, Greece",
+            "global_code" : "8GG4JXQ2+5G"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJPXvJfKs5qBQRse8msc94zfg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 52,
+         "vicinity" : "Kassandrou 115, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6400074,
+               "lng" : 22.9463893
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.64132963029149,
+                  "lng" : 22.9477402802915
+               },
+               "southwest" : {
+                  "lat" : 40.6386316697085,
+                  "lng" : 22.9450423197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1fe4f5c48727b02cee4e2891290d12f53ede7efb",
+         "name" : "Masoútēs",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109739912845598052396\"\u003eHari Toufexi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOKMQk-8J9n1_nXuhXPR3xhT9nhd-GA5_BTHsCBjLQPVn-AnmDxUT05J7OZjxqYxvCTE0MJ_DZ46DENgH9OE5B9_bkpbo004Ovc9IYzpHZlhXALd3WdsimG8Irzxk0JiuEhAJ2oU8MxoQoK1nH4YofilkGhQ2bG255acL1fbPP-7u9xZxTAEABQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJGc0DvK45qBQRmGvobxohX3s",
+         "plus_code" : {
+            "compound_code" : "JWRW+2H Thessaloniki, Greece",
+            "global_code" : "8GG4JWRW+2H"
+         },
+         "rating" : 4,
+         "reference" : "ChIJGc0DvK45qBQRmGvobxohX3s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 107,
+         "vicinity" : "Paster 12, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.63578,
+               "lng" : 22.9510464
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63708988029151,
+                  "lng" : 22.9523618302915
+               },
+               "southwest" : {
+                  "lat" : 40.63439191970851,
+                  "lng" : 22.94966386970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "81d8699c93c485591a8a84328a8e72f576a1447f",
+         "name" : "Masoútēs",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104605312189584939935\"\u003eChristi Petaloti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASoHPd7n9_AbGphF5EDRDntsLoXUANB7GySRQVbMn7e2QNs13F4_v0mgzWcA2JBLkU9HtRfhoYsi1jmQESpheFUK68_XWFvOy83qPl5m61S92SeHDBCykvjxLMI4Jy8WYEhA0Vc_HPGNXNLPa703CHnPlGhSCaJ8lGoZ1QA6YEDuBy4xhEigT6w",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ6ejw_ao5qBQRRaU-XgfI8EM",
+         "plus_code" : {
+            "compound_code" : "JXP2+8C Thessaloniki, Greece",
+            "global_code" : "8GG4JXP2+8C"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ6ejw_ao5qBQRRaU-XgfI8EM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 48,
+         "vicinity" : "Olimpou 115, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6372349,
+               "lng" : 22.94362259999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63860158029149,
+                  "lng" : 22.9449871302915
+               },
+               "southwest" : {
+                  "lat" : 40.6359036197085,
+                  "lng" : 22.9422891697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "639f6dd1ba77aa796deb4f2a29cd129a2082774a",
+         "name" : "Bazar",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108536071382588695235\"\u003eArtem\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwzR_gGn-WNh3c_omtINjKyX7gzWS8PBQT5dJyC5Gge0x_3POHrC8w5vkLkeHGF61DIPclXxjKuGj4xWDLf3WdtZd9W1OahbaUl8motY7OafMf5nuV_DEFudYD8rPD7c8EhA1BZPXQMJsHMsNt3x1YT87GhSol6J5sRsrBIDGxCEi8GcuDCh3Ug",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJOYSJWKg5qBQRvpw3oKUWO4w",
+         "plus_code" : {
+            "compound_code" : "JWPV+VC Thessaloniki, Greece",
+            "global_code" : "8GG4JWPV+VC"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJOYSJWKg5qBQRvpw3oKUWO4w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Ioustinianou 19, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6374546,
+               "lng" : 22.943471
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63877618029149,
+                  "lng" : 22.9447958302915
+               },
+               "southwest" : {
+                  "lat" : 40.6360782197085,
+                  "lng" : 22.9420978697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "fa788377336e6155fcf806f4b2b86069637c4fef",
+         "name" : "Mini Mix Markt",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3263,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107473924288401578111\"\u003eMini Mix Markt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhJAZ3x48QFLUW02C5F78Qy2MUUjNSht20jP_kCOrIxeKO7pfPFWSJMRR9oiZxsDWqlZFC1swWyPqti-oVfd7b0cxmn1q1yX7oeVsgH1QUZYUWr2hzRqWRsPZSlausz4aEhBznHclZprRPS213JLgt49aGhSIFI_yxBYOPmBKHc1aGCJ-PXo-BA",
+               "width" : 4741
+            }
+         ],
+         "place_id" : "ChIJDSGu8BE5qBQRgVptYR5rLbE",
+         "plus_code" : {
+            "compound_code" : "JWPV+X9 Thessaloniki, Greece",
+            "global_code" : "8GG4JWPV+X9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJDSGu8BE5qBQRgVptYR5rLbE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "convenience_store",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Ioustinianou 21, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.63717189999999,
+               "lng" : 22.9434788
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63849308029149,
+                  "lng" : 22.9448799302915
+               },
+               "southwest" : {
+                  "lat" : 40.6357951197085,
+                  "lng" : 22.94218196970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b9c2adac9f371a43639040ac4349a17cf8189c81",
+         "name" : "SUPER BAZAR",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJx4QqX6g5qBQR320fu0qoq2E",
+         "plus_code" : {
+            "compound_code" : "JWPV+V9 Thessaloniki, Greece",
+            "global_code" : "8GG4JWPV+V9"
+         },
+         "reference" : "ChIJx4QqX6g5qBQR320fu0qoq2E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "Chalkeon 19, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.63391899999999,
+               "lng" : 22.9467447
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63530688029149,
+                  "lng" : 22.9480252802915
+               },
+               "southwest" : {
+                  "lat" : 40.6326089197085,
+                  "lng" : 22.94532731970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f36a723abc7690e66b3a6c54d79ed920117eec13",
+         "name" : "Masoútēs",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113276418440948793889\"\u003eNikos Karantonis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlnjElD6OBtzjTpeS40r7FVQFWjBYtfc8-bcnSWqHHiZoidukpmrLYOrq6gEzpLHOYkea2F-piKVLwoyyv9J-fIrwU4ZTr1OLVbllPswEONXZKtcIYc-ChXWn3QEJA08fEhBOT0oUBg4Tlw8fdle13LuiGhRnyPkbLQb8uvvqOn8_7g9wZ332lA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJc98IWAc5qBQRZBD9Zjbzr9s",
+         "plus_code" : {
+            "compound_code" : "JWMW+HM Thessaloniki, Greece",
+            "global_code" : "8GG4JWMW+HM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJc98IWAc5qBQRZBD9Zjbzr9s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 312,
+         "vicinity" : "Agias Sofias 46, Thessaloniki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6400628,
+               "lng" : 22.944419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6414371802915,
+                  "lng" : 22.9457948802915
+               },
+               "southwest" : {
+                  "lat" : 40.6387392197085,
+                  "lng" : 22.9430969197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7d8baca86bd404ecc73112d9475978db7f4d2028",
+         "name" : "ΑΒ Βασιλόπουλος",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJE_BOul45qBQRbRU29ZR2WZo",
+         "plus_code" : {
+            "compound_code" : "JWRV+2Q Thessaloniki, Greece",
+            "global_code" : "8GG4JWRV+2Q"
+         },
+         "reference" : "ChIJE_BOul45qBQRbRU29ZR2WZo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "Express (Τωρα Εδώ, ΣΚΛΑΒΕΝΙΤΗΣ, Πάροδος Οπλαρχηγού Γάτζιου (Πισω) μεσα από το Carrefour, Thessaloniki"
+      }
+   ],
+   "status" : "OK"
+}
