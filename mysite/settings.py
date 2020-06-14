@@ -25,7 +25,8 @@ SECRET_KEY = 'k6hbfdb$hwj@^i^g-=r=m%nk^ggekyk(^vkjexe)*nrj$y*5*='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['172.104.132.88']
+
 
 
 # Application definition
@@ -53,6 +54,8 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'mysite.urls'
 
+SETTINGS_PATH = os.path.join(os.path.dirname(__file__))
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
@@ -78,7 +81,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'webgis',
+        'NAME': 'gis',
         'USER': 'chris',
         'PASSWORD': 'Chr!$t0tk',
         'HOST': 'localhost',

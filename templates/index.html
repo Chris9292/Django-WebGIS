@@ -1,29 +1,36 @@
 <html>
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
    crossorigin=""/>
-
- <!-- Make sure you put this AFTER Leaflet's CSS -->
+   
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
-   crossorigin=""></script>
+   crossorigin="">
+</script>
+</head>
 
- <div id="mapid"></div>
+<body>
 
+<h2>HELLO WORLD</h2>
+ <div id="map"></div>
+
+</body>
 <script>
-    var mymap = L.map('mapid').setView([22.9451282, 40.6427709], 13);
-
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(map);
-
+var lon = -114;
+var lat = 51;
+var zoom = 10;
+    var map = new L.map('map').setView([lat, lon], zoom);
+L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    maxZoom: 19,
+}).addTo(map);
     {%  for shop in shops %}
-    var marker = L.marker([shop.longitude, shop.latitude]).addTo(mymap);
+    var marker = L.marker([{{ shop.location.y }}, {{ shop.location.x }}]).addTo(map);
     marker.bindPopup("test12");
 
     {% endfor %}
 </script>
-
-
 </html>
