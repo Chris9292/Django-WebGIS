@@ -1,8 +1,13 @@
 {% load static %}
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href=" {% static 'gis/css/main.css' %}"/>
 
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <title>Thessaloniki POI</title>
+
+    <!-- import external css and js files -->
+    <link rel="stylesheet" type="text/css" href=" {% static 'gis/css/main.css' %}"/>
+    <script type="text/javascript" src="{% static 'gis/js/functions.js' %}"></script>
     <!-- import leaflet css/js -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
@@ -14,42 +19,107 @@
 </head>
 
 <body>
-
 <h1>SUPERMARKET IN THESSALONIKI CENTER AREA</h1>
-    <!-- div for map element -->
-    <div id="map"></div>
+    <div id="map">
 
+    </div>
 </body>
 
 <script>
+    // center location for map (lat, lon)
+    var lon = 22.94;
+    var lat = 40.64;
 
-// center location for map (lat, lon)
-var lon = 22.94;
-var lat = 40.64;
+    var zoom = 15;
+    var accessToken = 'pk.eyJ1IjoiY2hyaXM5MjkyIiwiYSI6ImNrYmVmaTkzYzBreGcyc2w5NWZzdjQzbmwifQ._W3j2nNw9J1TY-Mm-O9cBg';
 
-var zoom = 15;
-var accessToken = 'pk.eyJ1IjoiY2hyaXM5MjkyIiwiYSI6ImNrYmVmaTkzYzBreGcyc2w5NWZzdjQzbmwifQ._W3j2nNw9J1TY-Mm-O9cBg';
+    // initialize map
+    var map = new L.map('map').setView([lat, lon], zoom);
 
-// initialize map
-var map = new L.map('map').setView([lat, lon], zoom);
-
-// basemap layer with mapbox api
-L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-    maxZoom: 20,
-    id: 'mapbox/streets-v11',
-    tileSize: 512,
-    zoomOffset: -1,
-    accessToken: accessToken
-}).addTo(map);
+    // basemap layer with mapbox api
+    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        maxZoom: 20,
+        id: 'mapbox/streets-v11',
+        tileSize: 512,
+        zoomOffset: -1,
+        accessToken: accessToken
+    }).addTo(map);
 
 
-// add 1 marker for every shop
-{%  for shop in shops %}
-    var marker = L.marker([{{ shop.location.y }}, {{ shop.location.x }}]).addTo(map);
-    marker.bindTooltip("{{ shop.name }}");
-    marker.bindPopup("{{ shop.location.y }}, {{ shop.location.x }}");
-{% endfor %}
+    // add 1 marker for every shop
+    {%  for shop in shops %}
+        var marker = L.marker([{{ shop.location.y }}, {{ shop.location.x }}]).addTo(map);
+        marker.bindTooltip("{{ shop.name }}");
+        marker.bindPopup("<h2>{{ shop.name }}</h2><p>Location: {{ shop.location.y }}, {{ shop.location.x }}</p><br><button class=\"button\" onclick=\"getDirections()\">Get Directions</button>");
 
+    {% endfor %}
+
+
+
+
+
+    //Geolocation API
+    var x = document.getElementsByClassName("output_field")[0];
+
+    var user_lat;
+    var user_lon;
+    function getLocation() {
+        // if geolocation is supported
+        if (navigator.geolocation)  {
+            // get user latitude and longtitude
+            console.log("geolocation supported!");
+            navigator.geolocation.getCurrentPosition(position => {
+                user_lat = position.coords.latitude;
+                user_lon = position.coords.longitude;
+                createUserMarker(position.coords.latitude, position.coords.longitude);
+            });
+
+        }
+        else {
+            x.innerHTML = 'Geolocation is not supported by this browser';
+        }
+    }
+    console.log(user_lat);
+    var myIcon = L.icon({
+        iconUrl: "{% static 'gis/img/user-icon.png' %}",
+        iconSize: [30,20]
+    });
+
+    function createUserMarker(userLat, userLon) {
+        if (map)
+        {
+            var marker = L.marker([userLat, userLon], {icon: myIcon});
+            marker.bindTooltip("some text");
+            marker.bindPopup("<h1>test</h1>");
+            marker.addTo(map);
+            console.log("added to map!");
+        }
+        else
+        {
+            console.log("No map found!");
+        }
+    }
+
+{#function getDirections() {#}
+{#    // if geolocation is supported#}
+{#    if (navigator.geolocation)  {#}
+{#        // get user latitude and longtitude#}
+{#        console.log("geolocation supported!");#}
+{#        navigator.geolocation.getCurrentPosition(position => {#}
+{#            var user_lat = position.coords.latitude;#}
+{#            var user_lon = position.coords.longitude;#}
+{#            createUserMarker(user_lat, user_lon);#}
+{#        });#}
+{##}
+{#    }#}
+{#    else {#}
+{#        alert('Geolocation is not supported by this browser');#}
+{#    }#}
+{#}#}
+
+
+getLocation();
+//createUserMarker();
 </script>
 </html>
